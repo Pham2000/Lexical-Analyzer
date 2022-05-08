@@ -1,5 +1,5 @@
 ## Environment: 
-This program has been tested in the multi-platform lab and will run there.
+This program has been tested and run in cmd or terminal.
 
 ## Program workings:
 Program will be using a batch file to run a list of test files which will be analyze
